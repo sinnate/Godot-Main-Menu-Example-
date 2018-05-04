@@ -1,7 +1,7 @@
 #################################################
-# @Author : Elisto								#
-# @mail : elisto@protonmail.com				   	#	
-# @Github : https://github.com/Elisto		   	#
+# @Author : Elisto
+# @mail : elisto@protonmail.com
+# @Github : https://github.com/Elisto
 #################################################
 
 extends Node
