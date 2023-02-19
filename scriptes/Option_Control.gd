@@ -1,7 +1,7 @@
 #################################################
-# @Author : Elisto								#
+# @Author : Sinnate								#
 # @mail : elisto@protonmail.com				   	#	
-# @Github : https://github.com/Elisto		   	#
+# @Github : https://github.com/Sinnate		   	#
 #################################################
 
 extends Control
